@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1415988353 source:d:\dropbox\public\faculdade\lab icc2\aula 10\tarefa 1\problema 1\main.c
+	"BSTree.h"
+	<stdio.h>
+	<stdlib.h>
+
+1415988616 d:\dropbox\public\faculdade\lab icc2\aula 10\tarefa 1\problema 1\bstree.h
+	<stdio.h>
+	<stdlib.h>
+
+1415988553 source:d:\dropbox\public\faculdade\lab icc2\aula 10\tarefa 1\problema 1\bstree.c
+	"BSTree.h"
+

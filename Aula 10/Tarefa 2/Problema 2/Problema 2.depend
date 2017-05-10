@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1416012248 source:d:\dropbox\public\faculdade\lab icc2\aula 10\tarefa 2\problema 2\bstree.c
+	"BSTree.h"
+
+1415989578 d:\dropbox\public\faculdade\lab icc2\aula 10\tarefa 2\problema 2\bstree.h
+	<stdio.h>
+	<stdlib.h>
+
+1416012974 source:d:\dropbox\public\faculdade\lab icc2\aula 10\tarefa 2\problema 2\nodequeue.c
+	"NodeQueue.h"
+
+1416012969 d:\dropbox\public\faculdade\lab icc2\aula 10\tarefa 2\problema 2\nodequeue.h
+	"BSTree.h"
+
+1416012960 source:d:\dropbox\public\faculdade\lab icc2\aula 10\tarefa 2\problema 2\main.c
+	"NodeQueue.h"
+

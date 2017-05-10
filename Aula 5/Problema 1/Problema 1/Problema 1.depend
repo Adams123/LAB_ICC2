@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1411754306 source:d:\dropbox\public\faculdade\lab icc2\aula 5\problema 1\problema 1\problema 1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

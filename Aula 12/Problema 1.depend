@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1417199435 source:d:\dropbox\public\faculdade\lab icc2\aula 12\problema 1\avl.c
+	"AVL.h"
+
+1417199387 d:\dropbox\public\faculdade\lab icc2\aula 12\problema 1\avl.h
+	<stdio.h>
+	<stdlib.h>
+
+1417199241 source:d:\dropbox\public\faculdade\lab icc2\aula 12\problema 1\main.c
+	"AVL.h"
+
+1417199435 source:d:\dropbox\public\faculdade\lab icc2\aula 12\avl.c
+	"AVL.h"
+
+1417199387 d:\dropbox\public\faculdade\lab icc2\aula 12\avl.h
+	<stdio.h>
+	<stdlib.h>
+
+1417199241 source:d:\dropbox\public\faculdade\lab icc2\aula 12\main.c
+	"AVL.h"
+

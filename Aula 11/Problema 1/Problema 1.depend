@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1416617447 source:d:\dropbox\public\faculdade\lab icc2\aula 11\problema 1\arithtree.c
+	"ArithTree.h"
+
+1416617102 d:\dropbox\public\faculdade\lab icc2\aula 11\problema 1\arithtree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1416617461 source:d:\dropbox\public\faculdade\lab icc2\aula 11\problema 1\main.c
+	"ArithTree.h"
+
+1417198983 source:d:\dropbox\public\faculdade\lab icc2\aula 12\avl.c
+	"AVL.h"
+
+1417198982 d:\dropbox\public\faculdade\lab icc2\aula 12\avl.h
+	<stdio.h>
+	<stdlib.h>
+
